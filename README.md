@@ -1,1 +1,1 @@
-# Sample projects to learn gRPC
+Sample projects to learn gRPC
